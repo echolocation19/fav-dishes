@@ -1,4 +1,4 @@
-package com.example.favdishes
+package com.example.favdishes.presentation.activity
 
 import android.content.Context
 import android.content.Intent
@@ -9,6 +9,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
+import com.example.favdishes.R
 import com.example.favdishes.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

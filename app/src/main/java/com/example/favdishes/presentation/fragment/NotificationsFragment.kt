@@ -1,4 +1,4 @@
-package com.example.favdishes.ui.notifications
+package com.example.favdishes.presentation.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,6 +8,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.example.favdishes.databinding.FragmentNotificationsBinding
+import com.example.favdishes.presentation.viewmodel.NotificationsViewModel
 
 class NotificationsFragment : Fragment() {
 
