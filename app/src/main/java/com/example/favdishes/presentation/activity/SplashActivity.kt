@@ -1,4 +1,4 @@
-package com.example.favdishes.ui
+package com.example.favdishes.presentation.activity
 
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
@@ -9,7 +9,6 @@ import android.view.WindowInsets
 import android.view.WindowManager
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
-import com.example.favdishes.MainActivity
 import com.example.favdishes.R
 import com.example.favdishes.databinding.ActivitySplashBinding
 

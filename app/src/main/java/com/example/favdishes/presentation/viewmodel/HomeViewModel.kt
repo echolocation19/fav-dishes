@@ -1,4 +1,4 @@
-package com.example.favdishes.ui.home
+package com.example.favdishes.presentation.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
